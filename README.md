@@ -10,7 +10,6 @@ I've been programming since I was 13 (25 now) and I am passionate about JavaScri
 * ✉️  You can contact me at [kaushalgautam.alt@gmail.com](mailto:kaushalgautam.alt@gmail.com)
 * 🧠  I'm learning AWS, Data Structures and Algorithms (again)
 * 🤝  I'm open to collaborating on Interesting projects using JS, Python, Salesforce
-* ⚡  I love anime
 
 <a href="https://www.twitter.com/tumblecode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tumblecode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
